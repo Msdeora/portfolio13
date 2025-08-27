@@ -100,6 +100,13 @@ function App() {
 
   const projects = [
     {
+      title: 'Live Face Swap',
+      description: 'Real-time face swap web app built with Streamlit and computer vision.',
+      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800',
+      tech: ['Python', 'Streamlit', 'OpenCV'],
+      github: 'https://github.com/Msdeora/PythonTasks-with-Streamlit-webapps/blob/main/LiveFaceSwap.py'
+    },
+    {
       title: 'WhatsApp Message Automation with PyWhatKit',
       description: 'Automated WhatsApp messaging system using Python and pywhatkit library for sending messages programmatically.',
       image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800',
